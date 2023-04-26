@@ -13,11 +13,12 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        topLabel.text = "Hey!"
+        topLabel.text = "Hey bro!!!"
     }
     
     func myFunc() {
-        
+        print("Hello")
+    
     }
 
 
